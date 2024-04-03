@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Defect Classification</title>
+</head>
+<body>
+    <h1>Defect Classification</h1>
+    
+    <form action="/uploaddata/" method="post" enctype="multipart/form-data">
+        <label for="file">Choose an image file:</label>
+        <input type="file" name="file" accept="image/*">
+        <button type="submit">Upload</button>
+    </form>
+
+    {% if filename %}
+    <h2>Uploaded Image: {{ filename }}</h2>
+    <img src="{{ url_for('files', path=filename) }}" alt="Uploaded Image" style="max-width: 500px;">
+
+    <h2>Prediction:</h2>
+    <p>{{ output }}</p>
+    {% endif %}
+
+</body>
+</html>
