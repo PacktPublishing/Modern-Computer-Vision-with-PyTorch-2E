@@ -5,7 +5,8 @@ This is the code repository for [Modern-Computer-Vision-with-PyTorch, Second Edi
 
 The authors of this book are - Kishore Ayyadevara and Yeshwanth Reddy
 
-https://packtservices.sharepoint.com/sites/prod.packtcloud/Expert%20Network/Forms/AllItems.aspx?ct=1719295308072&or=Teams%2DHL&ga=1&id=%2Fsites%2Fprod%2Epacktcloud%2FExpert%20Network%2F2023%2FB18457%5FModern%5FComputer%5FVision%5Fwith%5FPyTorch%2C%5FSecond%5FEdition%2FProduction%5FDistribution%5FFinal%2FFront%20Cover%2Fcover%2Epng&parent=%2Fsites%2Fprod%2Epacktcloud%2FExpert%20Network%2F2023%2FB18457%5FModern%5FComputer%5FVision%5Fwith%5FPyTorch%2C%5FSecond%5FEdition%2FProduction%5FDistribution%5FFinal%2FFront%20Cover
+![cover](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E/assets/40835206/351c65a9-484b-4d53-bb7b-61d0b9e47b58)
+
 
 ## About the book
 Whether you are a beginner or are looking to progress in your computer vision career, this book guides you through the fundamentals of neural networks (NNs) and PyTorch and how to implement state-of-the-art architectures for real-world tasks.
