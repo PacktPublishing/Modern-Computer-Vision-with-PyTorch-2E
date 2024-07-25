@@ -14,6 +14,17 @@ You’ll discover best practices for working with images, tweaking hyperparamete
 
 By the end of this deep learning book, you'll confidently leverage modern NN architectures to solve real-world computer vision problems.
 
+### Running on a cloud platform or in your environment
+ 
+To run these notebooks on a cloud platform, just click on one of the badges in the table below or run them on your environment.
+ 
+| Chapter | Colab | 
+| :-------- | :-------- | 
+| | | | | |
+**Chapter 1: Getting Started with the Architecture of the Transformer Model**
+| <ul><li>Back_propagation.ipynb</li><li>Chain_rule.ipynb</li><li>Feed_forward_propagation.ipynb</li><li>Gradient_descent.ipynb</li><li>Learning_rate.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E/blob/main/Chapter01/Back_propagation.ipynb) <br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E/blob/main/Chapter01/Chain_rule.ipynb)<br>  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E/blob/main/Chapter01/Feed_forward_propagation.ipynb)<br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E/blob/main/Chapter01/Gradient_descent.ipynb)<br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E/blob/main/Chapter01/Learning_rate.ipynb) | 
+
+
 ## Key Takeaways
 - Get to grips with various transformer-based architectures for computer vision, CLIP, Segment-Anything, and Stable Diffusion, and test their applications, such as in-painting and pose transfer
 - Combine CV with NLP to perform OCR, key-value extraction from document images, visual question-answering, and generative AI tasks
